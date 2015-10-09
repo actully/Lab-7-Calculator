@@ -35,7 +35,7 @@ def div(a, b):
 
 
 # Exponent funtion
-def exp(a, b)
+def exp(a, b):
 	return a **b
 
 # Mod function
